@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Voom",
-  description: "Voom is a video conferencing app",
+  title: "FaceChat",
+  description: "FaceChat is a video conferencing app",
 };
 
 export default function RootLayout({
