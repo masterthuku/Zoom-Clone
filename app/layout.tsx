@@ -8,6 +8,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "FaceChat",
   description: "FaceChat is a video conferencing app",
+  icons: {
+    icon: "/icons/logo.svg"
+  }
 };
 
 export default function RootLayout({
