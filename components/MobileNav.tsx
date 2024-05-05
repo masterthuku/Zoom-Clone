@@ -23,7 +23,7 @@ const MobileNav = () => {
             width={36}
             height={36}
             alt="hamburger icon"
-            className="cursor-pointer"
+            className="cursor-pointer sm:hidden"
           />
         </SheetTrigger>
         <SheetContent side="left" className="border-none bg-dark-1">
